@@ -13,10 +13,10 @@ I started my speaking journey just recently in the interest to share with the co
 
 2. Austin Power BI User Group, April 2024
    Build a Power BI report with new Dataflows Gen2
-      <details>
-      [YouTube video](https://youtu.be/BI7s4bBVw5o?si=-pecrge345hzYN9T)
+      
+      [YouTube video](https://youtu.be/BI7s4bBVw5o?si=Vb2NcT2CqA-WF6RJ)
       ![image](https://github.com/user-attachments/assets/17eba121-ab6a-4116-9724-2a30e79f90b7)
-      </details>
+      
 
 3. Berlin Power BI User Group
    How to use Data Factory in Fabric to build a Power BI report
