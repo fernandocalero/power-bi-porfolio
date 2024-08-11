@@ -5,6 +5,12 @@
 I started my speaking journey just recently in the interest to share with the community my view on topics I enjoy and spend a lot of time learning and implementing, as a retribution to the amazing knowledge that I have receieved from the community. #WeLiftWhileLiftingOthers
 
 <details>
+   <summary>2024</summary>
+   
+
+
+
+<details>
 <Summary>March 2024</Summary>
 
 
@@ -56,5 +62,7 @@ Microsoft Power Platform Community Call March 2024
 Dataflows Gen2 in Fabric for the Power BI Analyst
 
 (not recorded)
+
+</details>
 
 </details>
