@@ -25,11 +25,13 @@ I started my speaking journey just recently in the interest to share with the co
       ![image](https://github.com/user-attachments/assets/8c7935c1-2bf7-4aab-8af2-d08ebbcd0313)
    
 
-7. DFW Power BI User Group
+6. DFW Power BI User Group
    
    [Build a Power BI report with Dataflows Gen2](https://youtu.be/VtZ9v26PdxA?si=FZRw1LxqK36VxAZR)
    
       ![image](https://github.com/user-attachments/assets/e48ea1b0-3c33-43d7-abac-ab668b01f3fd)
    
 
-9. a
+7. Madison Fabric User Group, July 2024
+
+    (not recorded)
