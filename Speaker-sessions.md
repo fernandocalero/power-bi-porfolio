@@ -18,14 +18,14 @@ I started my speaking journey just recently in the interest to share with the co
       ![image](https://github.com/user-attachments/assets/17eba121-ab6a-4116-9724-2a30e79f90b7)
       
 
-5. Berlin Power BI User Group
+5. Berlin Power BI User Group, April 2024
    
    [How to use Data Factory in Fabric to build a Power BI report](https://youtu.be/-_vCr6EUFAQ?si=A9_1yYK6KKSYJ9Kc)
    
       ![image](https://github.com/user-attachments/assets/8c7935c1-2bf7-4aab-8af2-d08ebbcd0313)
    
 
-6. DFW Power BI User Group
+6. DFW Power BI User Group, May 2024
    
    [Build a Power BI report with Dataflows Gen2](https://youtu.be/VtZ9v26PdxA?si=FZRw1LxqK36VxAZR)
    
@@ -34,4 +34,5 @@ I started my speaking journey just recently in the interest to share with the co
 
 7. Madison Fabric User Group, July 2024
 
-    (not recorded)
+   Dataflows Gen2 in Fabric for the Power BI Analyst
+   (not recorded)
