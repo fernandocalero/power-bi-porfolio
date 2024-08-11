@@ -19,3 +19,9 @@ I started my speaking journey just recently in the interest to share with the co
    [YouTube video](https://youtu.be/-_vCr6EUFAQ?si=A9_1yYK6KKSYJ9Kc)
    ![image](https://github.com/user-attachments/assets/8c7935c1-2bf7-4aab-8af2-d08ebbcd0313)
 
+4. DFW Power BI User Group
+   asdf
+   [YouTube video](https://youtu.be/VtZ9v26PdxA?si=FZRw1LxqK36VxAZR)
+   ![image](https://github.com/user-attachments/assets/e48ea1b0-3c33-43d7-abac-ab668b01f3fd)
+
+5. a
