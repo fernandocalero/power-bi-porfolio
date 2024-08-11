@@ -4,35 +4,61 @@
 
 I started my speaking journey just recently in the interest to share with the community my view on topics I enjoy and spend a lot of time learning and implementing, as a retribution to the amazing knowledge that I have receieved from the community. #WeLiftWhileLiftingOthers
 
-1. Microsoft Power Platform Community Call March 2024
-   
-   [Get Efficient Reclassifications using Dataverse and Power BI](https://youtu.be/IE91YxBWqvQ?si=0ZyGXA4xpy9wRlEY)
-   
-      ![image](https://github.com/user-attachments/assets/57a76baa-77da-4a59-8e0a-a1893f7b9aab)
-   
+March 2024
+<detail>
+Microsoft Power Platform Community Call March 2024
 
-3. Austin Power BI User Group, April 2024
+<detail>
+[Get Efficient Reclassifications using Dataverse and Power BI](https://youtu.be/IE91YxBWqvQ?si=0ZyGXA4xpy9wRlEY)
    
-   [Build a Power BI report with new Dataflows Gen2](https://youtu.be/BI7s4bBVw5o?si=Vb2NcT2CqA-WF6RJ)
-   
-      ![image](https://github.com/user-attachments/assets/17eba121-ab6a-4116-9724-2a30e79f90b7)
-      
+![image](https://github.com/user-attachments/assets/57a76baa-77da-4a59-8e0a-a1893f7b9aab)
+</detail>   
 
-5. Berlin Power BI User Group, April 2024
-   
-   [How to use Data Factory in Fabric to build a Power BI report](https://youtu.be/-_vCr6EUFAQ?si=A9_1yYK6KKSYJ9Kc)
-   
-      ![image](https://github.com/user-attachments/assets/8c7935c1-2bf7-4aab-8af2-d08ebbcd0313)
-   
+</detail>
 
-6. DFW Power BI User Group, May 2024
-   
-   [Build a Power BI report with Dataflows Gen2](https://youtu.be/VtZ9v26PdxA?si=FZRw1LxqK36VxAZR)
-   
-      ![image](https://github.com/user-attachments/assets/e48ea1b0-3c33-43d7-abac-ab668b01f3fd)
-   
+April 2024
 
-7. Madison Fabric User Group, July 2024
+<detail>
+Austin Power BI User Group, April 2024
 
-   Dataflows Gen2 in Fabric for the Power BI Analyst
-   (not recorded)
+<detail>
+[Build a Power BI report with new Dataflows Gen2](https://youtu.be/BI7s4bBVw5o?si=Vb2NcT2CqA-WF6RJ)
+   
+![image](https://github.com/user-attachments/assets/17eba121-ab6a-4116-9724-2a30e79f90b7)
+</detail>
+
+Berlin Power BI User Group, April 2024
+
+<detail>
+[How to use Data Factory in Fabric to build a Power BI report](https://youtu.be/-_vCr6EUFAQ?si=A9_1yYK6KKSYJ9Kc)
+   
+![image](https://github.com/user-attachments/assets/8c7935c1-2bf7-4aab-8af2-d08ebbcd0313)
+</detail>
+
+</detail>
+
+May 2024
+
+<detail>
+DFW Power BI User Group, May 2024
+
+<detail>
+[Build a Power BI report with Dataflows Gen2](https://youtu.be/VtZ9v26PdxA?si=FZRw1LxqK36VxAZR)
+
+<detail>
+![image](https://github.com/user-attachments/assets/e48ea1b0-3c33-43d7-abac-ab668b01f3fd)
+</detail>
+
+</detail>
+
+July 2024
+
+<detail>
+Madison Fabric User Group, July 2024
+
+<detail>
+Dataflows Gen2 in Fabric for the Power BI Analyst
+(not recorded)
+</detail>
+
+</detail>
