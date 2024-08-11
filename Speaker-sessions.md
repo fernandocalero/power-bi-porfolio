@@ -14,4 +14,8 @@ I started my speaking journey just recently in the interest to share with the co
 [YouTube video](https://youtu.be/BI7s4bBVw5o?si=-pecrge345hzYN9T)
 ![image](https://github.com/user-attachments/assets/17eba121-ab6a-4116-9724-2a30e79f90b7)
 
-3. A
+3. Berlin Power BI User Group
+   How to use Data Factory in Fabric to build a Power BI report
+   [YouTube video](https://youtu.be/-_vCr6EUFAQ?si=A9_1yYK6KKSYJ9Kc)
+   ![image](https://github.com/user-attachments/assets/8c7935c1-2bf7-4aab-8af2-d08ebbcd0313)
+
