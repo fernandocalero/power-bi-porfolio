@@ -7,3 +7,5 @@ I built this report based on fictitious data created in a Py-Spark notebook with
 The report includes an executive summary with KPIs relevant to key stakeholders and the ability to drill-through to more detail.
 
 [Power BI report](https://app.powerbi.com/view?r=eyJrIjoiZjQ5ODU2YWItNjZkNi00MDg4LTg4NzMtNDY5NzBiYTNlY2UyIiwidCI6ImFkODI0NDg1LWU0YzMtNGYzNS1iY2RjLTM4ZmY0OTlmNDQyYiJ9&embedImagePlaceholder=true)
+
+![image](https://github.com/user-attachments/assets/f8a16233-854e-4600-b5e7-dd99409accca)
