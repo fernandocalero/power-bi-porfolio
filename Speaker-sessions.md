@@ -6,4 +6,6 @@ I started my speaking journey just recently in the interest to share with the co
 
 1. Microsoft Power Platform Community Call March 2024
    [YouTube video](https://youtu.be/IE91YxBWqvQ?si=0ZyGXA4xpy9wRlEY)
-2. A
+  ![image](https://github.com/user-attachments/assets/57a76baa-77da-4a59-8e0a-a1893f7b9aab)
+
+3. A
