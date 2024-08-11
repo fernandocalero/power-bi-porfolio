@@ -12,3 +12,5 @@ The dataset was provided by OnyxData as part of the [DataDNA Dataset August 2024
 [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYjk3MmFhNTAtNzA2OS00MWZkLWFkYWQtNTcyMTAxZWZmODBjIiwidCI6ImFkODI0NDg1LWU0YzMtNGYzNS1iY2RjLTM4ZmY0OTlmNDQyYiJ9)
 
 Note: I have not yet submitted my participation as of today (10.8.2024)
+
+![image](https://github.com/user-attachments/assets/06c1369e-8510-4429-a3f7-6cf5f071b7c4)
