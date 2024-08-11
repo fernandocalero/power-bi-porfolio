@@ -7,8 +7,8 @@ I started my speaking journey just recently in the interest to share with the co
 1. Microsoft Power Platform Community Call March 2024
    Get Efficient Reclassifications using Dataverse and Power BI
 <detials>
-[YouTube video](https://youtu.be/IE91YxBWqvQ?si=0ZyGXA4xpy9wRlEY)
-![image](https://github.com/user-attachments/assets/57a76baa-77da-4a59-8e0a-a1893f7b9aab)
+   [YouTube video](https://youtu.be/IE91YxBWqvQ?si=0ZyGXA4xpy9wRlEY)
+   ![image](https://github.com/user-attachments/assets/57a76baa-77da-4a59-8e0a-a1893f7b9aab)
 </details>
 
 2. Austin Power BI User Group, April 2024
