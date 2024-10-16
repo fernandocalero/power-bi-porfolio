@@ -65,4 +65,16 @@ Dataflows Gen2 in Fabric for the Power BI Analyst
 
 </details>
 
+<details>
+<summary>September 2024</summary>
+
+
+### Devon and Cornwall Microsoft Power BI User Group, September 2024
+
+[Exploring the next generation ETL: Dataflows Gen2 in MS Fabric](https://youtu.be/dG_6Tl9bCak?si=oT1CorYgG1g5_f1S)
+
+![image]()
+
+</details>
+
 </details>
