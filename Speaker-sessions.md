@@ -7,6 +7,26 @@ I started my speaking journey just recently in the interest to share with the co
 #WeLiftWhileLiftingOthers
 
 <details>
+   <summary>
+      2023
+   </summary>
+
+   <details>
+      <summary>
+         July 2023
+      </summary>
+
+   ### DFW Power BI User Group, July 2023
+   
+   [Dataverse for Teams and a Power BI Report](https://youtu.be/GMormO3yPt8?si=Uto6kexBwUwMEw2b)
+         
+   ![figure1](https://github.com/user-attachments/assets/aec25ac0-5534-4c14-9039-e6182f2b8a56)
+
+      
+   </details>
+</details>
+
+<details>
    <summary>2024</summary>
    
 
