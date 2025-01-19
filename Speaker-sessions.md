@@ -92,4 +92,17 @@ Dataflows Gen2 in Fabric for the Power BI Analyst
    
 </details>
 
+<details>
+   <summary>
+      December 2024
+   </summary>
+
+   ### Romania Power BI & Modern Excel User Group, December 2024
+
+   [Navigating Semantic Link: Empowering Power BI Administrators](https://youtu.be/Bk_keeI9Gvw?si=yi9ai64mx49LSM8Z)
+
+   ![figure1](https://github.com/user-attachments/assets/3ae0d5ce-31a4-4403-bbfc-7286ee124042)
+
+</details>
+
 </details>
