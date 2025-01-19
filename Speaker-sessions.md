@@ -2,7 +2,8 @@
 
 ## Recordings of my speaking sessions in meetup groups around the world
 
-I started my speaking journey just recently in the interest to share with the community my view on topics I enjoy and spend a lot of time learning and implementing, as a retribution to the amazing knowledge that I have received from the community. #WeLiftWhileLiftingOthers
+I started my speaking journey just recently in the interest to share with the community my view on topics I enjoy and spend a lot of time learning and implementing, as a retribution to the amazing knowledge that I have received from the community. 
+#WeLiftWhileLiftingOthers
 
 <details>
    <summary>2024</summary>
