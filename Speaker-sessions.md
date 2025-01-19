@@ -128,3 +128,21 @@ Dataflows Gen2 in Fabric for the Power BI Analyst
 </details>
 
 </details>
+
+<details>
+   <summary>
+      2025
+   </summary>
+
+   <details>
+      <summary>
+         February 2025
+      </summary>
+
+   ### Vancouver Fabric and Power BI User Group, February 2025
+   
+   [From Numbers to Narratives: Designing an Income Statement in Microsoft Power BI]()
+         
+         
+   </details>
+</details>
