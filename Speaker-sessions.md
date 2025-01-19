@@ -83,7 +83,7 @@ Dataflows Gen2 in Fabric for the Power BI Analyst
       November 2024
    </summary>
 
-   ### Romania Power BI & Modern Exce User Group, November 2024
+   ### Romania Power BI & Modern Excel User Group, November 2024
 
    [Dataflows Gen2 in Microsoft Fabric for the Power BI Analyts](https://youtu.be/pBVB8vbIXls?si=Mws6k59oq9nwzUo-)
 
