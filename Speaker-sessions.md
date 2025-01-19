@@ -73,7 +73,8 @@ Dataflows Gen2 in Fabric for the Power BI Analyst
 
 [Exploring the next generation ETL: Dataflows Gen2 in MS Fabric](https://youtu.be/dG_6Tl9bCak?si=oT1CorYgG1g5_f1S)
 
-![image]()
+![figure1](https://github.com/user-attachments/assets/cbaad50c-1d4b-4f25-888d-3104967cf90b)
+
 
 </details>
 
