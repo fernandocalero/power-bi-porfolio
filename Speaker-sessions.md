@@ -13,6 +13,17 @@ I started my speaking journey just recently in the interest to share with the co
 
    <details>
       <summary>
+         March 2023
+      </summary>
+
+   ### SQL Saturday Atlanta March 2023
+
+   In-person event, 1 hour session. Session title: "A Dataverse for Teams app and a Power BI report".
+   
+   </details>
+   
+   <details>
+      <summary>
          July 2023
       </summary>
 
