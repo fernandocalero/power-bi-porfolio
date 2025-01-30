@@ -1,6 +1,6 @@
 <details>
 <summary>
-  # Sales and Budget
+  Sales and Budget
 </summary>
   
 Have you ever received an excel file like the one below with two columns, one for actuals and another
