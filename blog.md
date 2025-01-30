@@ -2,6 +2,8 @@
 <summary>
   Sales and Budget
 </summary>
+
+# Sales and Budget
   
 Have you ever received an excel file like the one below with two columns, one for actuals and another
 for budget sales figures and you have to build the fact table with only one column for the amount and
