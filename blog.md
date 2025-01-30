@@ -1,5 +1,8 @@
-# Sales and Budget
-
+<details>
+<summary>
+  # Sales and Budget
+</summary>
+  
 Have you ever received an excel file like the one below with two columns, one for actuals and another
 for budget sales figures and you have to build the fact table with only one column for the amount and
 one column for the scenario?
@@ -51,3 +54,4 @@ Here's the final report.
 
 https://app.powerbi.com/view?r=eyJrIjoiOGJlNDE0YzQtMGE0Mi00Njc4LTk2MWEtMmQ3YzYwNGQxNzEyIiwidCI6ImFkODI0NDg1LWU0YzMtNGYzNS1iY2RjLTM4ZmY0OTlmNDQyYiJ9
 
+</details>
