@@ -1,6 +1,6 @@
 <details>
 <summary>
-  Sales and Budget in separete columns and Unpivot
+  Sales and Budget in separate columns and Unpivot
 </summary>
 
 # Sales and Budget in separate columns and Unpivot
