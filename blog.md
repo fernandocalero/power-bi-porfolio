@@ -45,7 +45,7 @@ But the right way to handle this transformation is with the magic of Unpivot.
 
 https://learn.microsoft.com/en-us/power-query/unpivot-column
 
-You just have to select the Sales actual and Sales Budget columns, right click and select Unpivot.
+You just have to select the columns Sales Actual and Sales Budget, right click and select Unpivot.
 
 ![figure1](https://github.com/user-attachments/assets/f120689f-4cc2-488e-a16b-9c0d2f99ee9f)
 
