@@ -9,7 +9,8 @@ Have you ever received an excel file like the one below with two columns, one fo
 for budget sales figures and you have to build the fact table with only one column for the amount and
 one column for the scenario?
 
-![figure1](https://github.com/user-attachments/assets/4730e09d-0b9b-41fa-a4f3-7b435fc9ebf8)
+![figure1](https://github.com/user-attachments/assets/6813c118-4fde-43d2-a200-1a8eabcb4dac)
+
 
 ## The Bad way
 
