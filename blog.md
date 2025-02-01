@@ -20,8 +20,8 @@ column and giving it a number, 1 for Actuals; and for the second table the oppos
 column and keep the Budget column, add the Scenario column with a value of 2, and then appending both queries
 afterwards to form the final Sales table.
 
->[!WARNING]
->This procedure could be very expensive if you have a Sales table with millions of records.
+[!CAUTION]
+This procedure could be very expensive if you have a Sales table with millions of records.
 
 
 The DAX measures would then look like as follows:
