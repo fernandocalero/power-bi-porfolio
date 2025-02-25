@@ -153,6 +153,9 @@ Dataflows Gen2 in Fabric for the Power BI Analyst
    ### Vancouver Fabric and Power BI User Group, February 2025 * TBA
    
    [From Numbers to Narratives: Designing an Income Statement in Microsoft Power BI]()
+
+
+      Find the PowerPoint slides and the pbix files here:
       
    </details>
 
