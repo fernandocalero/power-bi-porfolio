@@ -154,11 +154,7 @@ Dataflows Gen2 in Fabric for the Power BI Analyst
    
    [From Numbers to Narratives: Designing an Income Statement in Microsoft Power BI]()
 
-
-      Find the presentation slides and the pbix files here:
-      [From Numbers to Narratives Build an Income Statement with Power BI 202502.pdf](https://github.com/user-attachments/files/18962680/From.Numbers.to.Narratives.Build.an.Income.Statement.with.Power.BI.202502.pdf)
-
-      
+           
    </details>
 
    <details>
